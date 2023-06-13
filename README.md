@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href=" " target="_blank">Ramir</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">16 y.o and C++ beginner 🇷🇺</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=00D1F7&width=435&lines=C%2B%2B+and+sports+programming+beginner;16+y.o+from+Russia+Federation)](https://git.io/typing-svg)
 
 <!--
 **Ramchike/Ramchike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
