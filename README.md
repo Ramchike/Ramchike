@@ -3,9 +3,20 @@
 <h3 align="center">C++ beginner</h3>
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RamiR294&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramchike)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramchike&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramchiket&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramchike&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramchike&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramchike&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramchike&theme=solarized_dark)
 
 <!--
 **Ramchike/Ramchike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
