@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C++ beginner</h3>
 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RamiR294&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramchike)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramchike&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
