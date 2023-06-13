@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href=" " target="_blank">Ramir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">16 y.o and C++ beginner 🇷🇺</h3>
+<h3 align="center">C++ beginner</h3>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramchike&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
