@@ -16,11 +16,9 @@
 
 <details>
 <summary>Certificates</summary>
-
-  1. 
-      ![1.](https://i.postimg.cc/VkSkWnVN/c-start.jpg)
-  2. 
-      ![2.](https://i.postimg.cc/mg02Xkvy/html-css-start.jpg) 
+ 
+  ![1.](https://i.postimg.cc/VkSkWnVN/c-start.jpg)
+  ![2.](https://i.postimg.cc/mg02Xkvy/html-css-start.jpg) 
 </details>
 
 <!--
