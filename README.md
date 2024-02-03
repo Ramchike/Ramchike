@@ -15,8 +15,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # Certificates
-![c++](https://stepik.org/certificate/2578bbb419156b44c389069635c89923473edcc6.pdf?language=en)
-![html-css](https://stepik.org/certificate/7f6138d4a99062914db2afc8fbe8c9a08d9bf492.pdf?language=en)
+![c++](https://disk.yandex.com.am/client/disk/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%2Fc%2B%2B%20start.jpg)
+![html-css](https://disk.yandex.com.am/client/disk/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%2Fhtml-css-start.jpg)
 
 <!--
 **Ramchike/Ramchike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
