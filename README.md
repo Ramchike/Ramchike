@@ -15,8 +15,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # Certificates
-![Image](https://disk.yandex.com.am/client/disk/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B?idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%2Fc%2B%2B%20start.jpg)
-![Image](https://disk.yandex.com.am/i/dGtJtz5YAedP3Q)
+![Image](https://3.downloader.disk.yandex.com.am/preview/9ff68a6d57c3d23145f7c58443cc3960350ef78f4004425caa50225a55c9b728/inf/4Szmf3VhrPZtPhs9p46oCtvU8chvqJmS-aQj_vTovrKzHZ3ZZYchDwnyUa--QBK_u9IzHhSOk0hwpREnJh92YQ%3D%3D?uid=196481843&filename=c%2B%2B%20start.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=196481843&tknv=v2&size=1903x945)
+![Image](https://4.downloader.disk.yandex.com.am/preview/0abd1534dcfe6b5aec746fef50fc1bd42ed7c561c57846fabefa04b1c49510e2/inf/bH-xL3soHOqkDWDZBiaav9Fc0aZiJvRCPs5cG-w_5r0A7vsbOmZRk_vcyPge6TOhnVqeAwSwsCBNctcmJIMUTg%3D%3D?uid=196481843&filename=html-css-start.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=196481843&tknv=v2&size=1903x945)
 
 <!--
 **Ramchike/Ramchike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
