@@ -17,7 +17,6 @@
 # <details><summary>Certificates</summary>
 ![Image](https://i.postimg.cc/VkSkWnVN/c-start.jpg)
 ![Image](https://i.postimg.cc/mg02Xkvy/html-css-start.jpg)
-
 </details>
 
 <!--
