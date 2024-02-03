@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ramir+Vorobyev;UI%2FUX+Designer;Frontend-developer;Product+owner)](https://git.io/typing-svg)
 
+
+# Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -11,6 +13,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+# Certificates
+![c++](https://stepik.org/certificate/2578bbb419156b44c389069635c89923473edcc6.pdf?language=en)
+![html-css](https://stepik.org/certificate/7f6138d4a99062914db2afc8fbe8c9a08d9bf492.pdf?language=en)
 
 <!--
 **Ramchike/Ramchike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
