@@ -15,8 +15,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # Certificates
-![Image](https://i.postimg.cc/4YgGJ7ZC/c-start.jpg)
-![Image](https://i.postimg.cc/PCQjNXrC/html-css-start.jpg)
+![Image](https://i.postimg.cc/VkSkWnVN/c-start.jpg)
+![Image](https://i.postimg.cc/mg02Xkvy/html-css-start.jpg)
 
 <!--
 **Ramchike/Ramchike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
