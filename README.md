@@ -1,6 +1,3 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ramir+Vorobyev;UI%2FUX+Designer;Frontend-developer;Product+owner)](https://git.io/typing-svg)
-
-![](https://raw.githubusercontent.com/Ramchike/cf-stats/main/output/max_rating.svg)
 # Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
