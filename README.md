@@ -14,7 +14,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Jotai](https://img.shields.io/badge/jotai-%237C3AED.svg?style=for-the-badge)
 
-# For ui/ux
+## For ui/ux
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-%230053D1.svg?style=for-the-badge&logo=behance&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)
