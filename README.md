@@ -7,12 +7,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Frontend frameworks, libs
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23005DFF.svg?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Jotai](https://img.shields.io/badge/jotai-%237C3AED.svg?style=for-the-badge)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+
+[![Motion](https://img.shields.io/badge/Motion-%23005DFF.svg?style=for-the-badge&logo=data:image/png;base64,<base64_лого_Motion>&logoColor=white)](https://www.framer.com/motion/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+
+[![Jotai](https://img.shields.io/badge/Jotai-000?style=for-the-badge&logo=data:image/png;base64,<base64_лого_Jotai>&logoColor=white)](https://jotai.org)
+[![TanStack Query](https://img.shields.io/badge/TanStack%20Query-000?style=for-the-badge&logo=react&logoColor=white)](https://tanstack.com/query)
 
 ## For ui/ux
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
