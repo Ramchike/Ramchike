@@ -13,6 +13,7 @@
 [![Motion](https://img.shields.io/badge/Motion-%23005DFF.svg?style=for-the-badge&logo=data:image/png;base64,<base64_лого_Motion>&logoColor=white)](https://www.framer.com/motion/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
 [![Jotai](https://img.shields.io/badge/Jotai-000?style=for-the-badge&logo=data:image/png;base64,<base64_лого_Jotai>&logoColor=white)](https://jotai.org)
 [![TanStack Query](https://img.shields.io/badge/TanStack%20Query-000?style=for-the-badge&logo=react&logoColor=white)](https://tanstack.com/query)
